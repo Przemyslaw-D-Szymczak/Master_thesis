@@ -1,0 +1,65 @@
+Nr_faktury;Towar_lub_usluga;Ilosc_towaru;Cena_jednostkowa;Stawka_podatku
+001/01/2020;meble;;302.02;0.23
+001/01/2020;ziemia ogrodnicza;20;;0.08
+001/01/2020;urządzenia komputerowe do pism Braille'a;5;178.04;0.00
+001/01/2020;mapy ścienne do celów edukacyjnych;20;46.80;zw.
+002/01/2020;ryby;12;123.00;0.05
+002/01/2020;kosmetyki;9;360.00;0.23
+002/01/2020;usługi związane z radiofonią i telewizją;15;57.90;0.08
+001/BK/2021;pieczywa cukiernicze;20;45.99;0.05
+001/BK/2021;usługi remontowe;60;29.99;0.23
+001/BK/2021;płyty gramofonowe;8;124.00;zw.
+0132/2020;produkty lecznicze;10;7.22;0.08
+0132/2020;przetwory z mleka;90;68.90;0.05
+0132/2020;mapy ścienne do celów edukacyjnych;30;15.00;zw.
+0132/2020;skanery;75;6.99;0.00
+023/07/LP/2021;meble;15;24.77;0.23
+023/07/LP/2021;zupy i buliony;67;12.00;0.05
+023/07/LP/2021;maszynopisy;9;134.98;0.08
+039/02/2022;urządzenia RTV i AGD;39;9.22;0.23
+039/02/2022;półprzewodnikowe urządzenia pamięci trwałej;10;98.88;0.08
+039/02/2022;nuty drukowane;1;28.00;0.05
+039/02/2022;zboża;20;68.99;0.05
+039/02/2022;płyty gramofonowe;8;5.50;zw.
+0456/03/2019;urządzenia do transmisji danych cyfrowych;65;13.90;0.00
+0456/03/2019;usługi remontowe;12;291.00;0.23
+091/KK/2021;serwery;4;79.99;0.00
+091/KK/2021;usługi związane z chowem i hodowlą;78;17.72;0.08
+091/KK/2021;książki dla dzieci;10;4.65;0.05
+091/KK/2021;srebro;18;190;zw.
+0729/2020;urządzenia RTV i AGD;10;10.99;0.23
+124/11/SA/2021;pieczywa cukiernicze;29;29.29;0.05
+124/11/SA/2021;kosmetyki;10;129.99;0.23
+314/2018;artykuły jubilerskie ze złota lub srebra;314;3.14;zw.
+0121/11/OK/20201;usługi remontowe;100;1.99;0.23
+0121/11/OK/20201;usługi związane z odkażaniem i czyszczeniem;12;3.00;0.08
+0121/11/OK/20201;mapy ścienne do celów edukacyjnych;85;12.85;zw.
+0129/11/OK/2020;urządzenia komputerowe do pism Braille'a;11;17.99;0.00
+0129/11/OK/2020;odpady i złom metali szlachetnych lub metali platerowanych metalami szlachetnymi;6;182.75;zw.
+0129/11/OK/2020;nuty drukowane;40;1.05;0.05
+0131/11/OK/2020;pasze i karmy dla zwierząt gospodarskich;35;22.95;0.08
+0131/11/OK/2020;usługi weterynaryjne;12;8.35;0.08
+0131/11/OK/2020;miód naturalny;55;59.50;0.05
+012/07/2019;wody aromatyzowane;1000;0.99;0.05
+012/07/2019;urządzenia RTV i AGD;78;23.29;0.23
+012/07/2019;archiwalne materiały filmowe;23;199.00;zw.
+016/07/2019;odpłatność za przewóz podręcznego bagażu;30;17.50;0.08
+016/07/2019;urządzenia RTV i AGD;8;199.00;0.23
+102/08/2021;zabawki;45;43.00;0.23
+104/08/2021;urządzenia komputerowe do pism Braille'a;80;183.99;0.00
+104/08/2021;nawozy;45;3.80;0.08
+104/08/2021;meble;1;12.00;0.23
+105/08/2021;zabawki;7;9.99;0.99
+105/08/2021;taśmy i inne zapisane nośniki do rejestracji dźwięku lub innych sygnałów;15;80.50;zw.
+105/08/2021;lód;60;19.75;0.04
+105/08/2021;skanery;28;2.45;0.00
+104/05/2020;usługi remontowe;34;6.60;0.23
+104/05/2020;urządzenia do transmisji danych cyfrowych;12;80.00;0.00
+104/05/2020;wody aromatyzowane;7;109.88;0.05
+104/05/2020;monety;45;16.50;zw.
+105/05/2020;kosmetyki;38;6.60;0.23
+105/05/2020;skanery;9;79.00;0.08
+105/05/2020;jednostki centralne komputerów;100;1280;0.00
+105/05/2020;urządzenia RTV i AGD;40;-87.50;0.23
+105/05/2020;miód naturalny;-228;0.50;0.05
+106/05/2020;węgiel kamienny;11;2500;0.23
