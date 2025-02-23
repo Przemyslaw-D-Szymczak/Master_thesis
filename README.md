@@ -1,15 +1,19 @@
 # Master_thesis
 
 *Polski:*
+
 Repozytorium zawiera:
-- folder z plikami potrzebnymi do działania aplikacji Sygnalista VAT (kod, dane, interfejs graficzny, instalator bazy danych)
+- folder z plikami potrzebnymi do działania aplikacji *Sygnalista VAT* (kod, dane, interfejs graficzny, instalator bazy danych)
 - pdf z pracą magisterską
   
 Praca powstała i została obroniona w 2024 r. Przedstawia wszystko związane z aplikacją Sygnalista VAT tj. genezę powstania, podstawy prawne, przegląd rynku, wykorzystywane technologie, instrukcję instalacji programu, generacji bazy danych i obslugi programu. Przestawione zostały także najbardziej interesujące framenty kodu i ich działanie oraz propozycje dalszego rozwoju.
 
 Aplikacja jest odpowiedzią na potrzeby związane z fakturą VAT. W pracy uargumentowane zostało, że czasami konieczne może być weryfikowanie poprawności faktur. *Syngalista VAT* napisany został w Pythonie i wykorzysuje dane z MS SQL Server i plików CSV, co więcej korzysta z API Ministerstwa Finansów i NBP. W trakcie weryfikacji sprawdzane są: braki danych, informacje o sprzedawcy i nabywcy, dane banków, typy faktury oraz stawki podatków dóbr i usług. Po tym przeprowadzane są kalkulacje a rezultaty prezentowane są na interfejsie graficznym.
 
+
+
 *English:*
+
 Repository contains:
 - folder with the *Sygnalista VAT* application files (code, data, GUI, database installer)
 - pdf with bachelor thesis
