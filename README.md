@@ -1,6 +1,6 @@
 # Master_thesis
 
-*Polski:*
+## *Polski:*
 
 Repozytorium zawiera:
 - folder z plikami potrzebnymi do działania aplikacji *Sygnalista VAT* (kod, dane, interfejs graficzny, instalator bazy danych)
@@ -12,7 +12,7 @@ Aplikacja jest odpowiedzią na potrzeby związane z fakturą VAT. W pracy uargum
 
 
 
-*English:*
+## *English:*
 
 Repository contains:
 - folder with the *Sygnalista VAT* application files (code, data, GUI, database installer)
